@@ -1,6 +1,7 @@
 # Orca Project
 
 An interactive Orca whale animation project using HTML5, CSS JavaScript.
+
 This was a side project for me while being a talent at Zone01 Oujda
 
 ![Ismail Bentour - Orca Whale Animation](orca-browser.png)
