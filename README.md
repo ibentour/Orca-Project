@@ -1,6 +1,6 @@
 # Orca Project
 
-An interactive Orca whale animation project using HTML5, CSS JavaScript and jQuery.
+An interactive Orca whale animation project using HTML5, CSS JavaScript.
 This was a side project for me while being a talent at Zone01 Oujda
 
 ![Ismail Bentour - Orca Whale Animation](orca-browser.png)
@@ -32,7 +32,6 @@ Simply open `interactive-orca.html` in your web browser to view the animation.
 Orca-Project/
 ├── interactive-orca.html    # Main HTML file
 ├── interactive-orca.css     # Styling for the animation
-├── jquery-orca.js          # jQuery library
 ├── orca.js                 # Main animation logic
 └── README.md               # This file
 ```
